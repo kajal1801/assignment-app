@@ -7,6 +7,7 @@ export default {
     extend: {
       colors: {
         'off-white': '#373837',
+        'off-black': '#161717'
       },
     },
   },
